@@ -11,9 +11,9 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
-.idea/
+dist//
 .vscode/
+.idea/
 downloads/
 eggs/
 .eggs/
